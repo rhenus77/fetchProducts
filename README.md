@@ -1,4 +1,4 @@
-#FETCH PRODUCTS
+#FETCH PRODUCTS FROM BACKEND
 
 Step One:Create the app
 1.created a folder called FetchProducts
